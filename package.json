@@ -1,6 +1,6 @@
 {
   "name": "react-native-quicklook",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "preview the file",
   "main": "QuickLookView.js",
   "scripts": {
